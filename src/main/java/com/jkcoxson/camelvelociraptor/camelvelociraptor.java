@@ -22,4 +22,6 @@ public class camelvelociraptor {
     @Subscribe
     public void onProxyInitialization(ProxyInitializeEvent event) {
     }
+
 }
+
